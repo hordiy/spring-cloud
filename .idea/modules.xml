@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/employee-api/employee-api.iml" filepath="$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/employee-api/employee-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/gateway/gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/payroll-api/payroll-api.iml" filepath="$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/payroll-api/payroll-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/registry/registry.iml" filepath="$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/report-api-direct/report-api-direct.iml" filepath="$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/report-api-direct/report-api-direct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/report-api-via-gateway/report-api-via-gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/report-api-via-gateway/report-api-via-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/spring-cloud-session-1-microservices-introduction.iml" filepath="$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/spring-cloud-session-1-microservices-introduction.iml" />
+    </modules>
+  </component>
+</project>

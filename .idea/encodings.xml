@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/employee-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/employee-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/payroll-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/payroll-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/report-api-direct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/report-api-direct/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/report-api-via-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-session-3-inter-microservice-communication-sync/report-api-via-gateway/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

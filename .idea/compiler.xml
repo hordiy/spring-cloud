@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="report-api-via-gateway" />
+        <module name="registry" />
+        <module name="employee-api" />
+        <module name="report-api-direct" />
+        <module name="payroll-api" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="employee-api" target="1.8" />
+      <module name="employee-api (1)" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="gateway (1)" target="1.8" />
+      <module name="payroll-api" target="1.8" />
+      <module name="payroll-api (1)" target="1.8" />
+      <module name="registry" target="1.8" />
+      <module name="registry (1)" target="1.8" />
+      <module name="report-api-direct" target="1.8" />
+      <module name="report-api-direct (1)" target="1.8" />
+      <module name="report-api-direct (2)" target="1.8" />
+      <module name="report-api-via-gateway" target="1.8" />
+      <module name="spring-cloud-session-1-microservices-introduction" target="1.8" />
+      <module name="spring-cloud-session-1-microservices-introduction (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="employee-api" options="-parameters" />
+      <module name="employee-api (1)" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="gateway (1)" options="-parameters" />
+      <module name="payroll-api" options="-parameters" />
+      <module name="payroll-api (1)" options="-parameters" />
+      <module name="registry" options="-parameters" />
+      <module name="registry (1)" options="-parameters" />
+      <module name="report-api-direct" options="-parameters" />
+      <module name="report-api-direct (1)" options="-parameters" />
+      <module name="report-api-direct (2)" options="-parameters" />
+      <module name="report-api-via-gateway" options="-parameters" />
+    </option>
+  </component>
+</project>
